@@ -1,0 +1,5 @@
+{
+    "require": {
+        "bahramali/shad-php": "^1.0"
+    }
+}
